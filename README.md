@@ -26,5 +26,5 @@ I specialize in creating modern web interfaces using **React** and **Vite**, whi
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [gauravkumar82q@gmail.com](mailto:gauravkumar82q@gmail.com)
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link]
-- 🌐 **Portfolio:** [Your Portfolio Link]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/gaurav-kumar-ai/]
+
